@@ -18,5 +18,5 @@ Open Porject based in creation of Rack, It'll give you the posibility to create 
 
 
 <p align="center">
-  <img src="https://github.com/nalancer08/Open-Rack-Project/blob/master/Open-Rack-Project-2.png">
+  <img src="https://github.com/nalancer08/Open-Rack-Project/blob/master/Open-Rack-Project-3.png">
 </p>
