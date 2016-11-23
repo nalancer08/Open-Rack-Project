@@ -15,3 +15,8 @@ Open Porject based in creation of Rack, It'll give you the posibility to create 
 - ARDUINO INTERFACE BUILDER that is a library to manage the serial
 - Python 2.7 with Raspberry to make API CALLS
 - HTML5 & CSS3 to style the site
+
+
+<p align="center">
+  <img src="https://github.com/nalancer08/Open-Rack-Project/blob/master/Open-Rack-Project.png">
+</p>
